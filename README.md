@@ -1,5 +1,11 @@
 # Docker Tutorial 
 
+##  Prerequisites
+In order to work with docker
+
+- Docker 23.0.1
+- Docker Desktop 4.17.0
+
 ## Getting Started 
 
 ### to check version :
